@@ -3,7 +3,7 @@
     
 
 body{
-    background-image: repeating-conic-gradient(red 0deg 10deg, yellow 10deg 20deg, green 20deg 30deg);
+    background-color: chartreuse;
     margin: auto;
 }
 h1{
