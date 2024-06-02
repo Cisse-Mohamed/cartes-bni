@@ -32,3 +32,11 @@ p{
     text-align: center;
     font-size: xx-large;
 }
+
+.retirer::after{
+    background-color: rgb(166, 204, 27);
+    content: "     retiré";
+    text-align:right;
+    margin: 10%;
+    
+}
